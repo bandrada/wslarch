@@ -14,7 +14,7 @@ so you can start exploring the best of linux even if you are stuck on Windows.
 `wsl -d archlinux`
 
 ## Install Command
-`pacman -Sy wget && wget -qO- https://raw.githubusercontent.com/bandrada/wslarch/refs/heads/main/createuser.sh | bash`
+`pacman -Sy wget && wget -qO- https://raw.githubusercontent.com/bandrada/wslarch/refs/heads/master/createuser.sh | bash`
 
 ## Steps
 1. Create a user
